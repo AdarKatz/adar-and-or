@@ -4,7 +4,7 @@ int main(){
     for (int j = 0; j <60; ++j) {
         printf("-");
     }
-    printf("\n");
+    printf("\na");
     for (int i = 1; i < 11; ++i) {
         for (int j = 1; j < 11; ++j) {
             printf("|%d|  ",i*j);
